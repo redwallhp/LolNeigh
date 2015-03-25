@@ -1,0 +1,6 @@
+# The location horses should go to instead of spawn
+horse_respawn:
+    world: "world"
+    x: 0
+    y: 70
+    z: 0

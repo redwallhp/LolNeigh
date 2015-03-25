@@ -4,6 +4,8 @@ So, you have a fancy spawn building on your Minecraft server. What happens when 
 
 With LolNeigh, this problem is a thing of a past. The plugin catches horses as the exit the End and teleports them to safety, either a predefined corral or, with an optional config, the owner's bed.
 
+Why the name? Just a silly reference to [LolNo.](https://github.com/nerdnu/lolno)
+
 
 ## Commands
 

@@ -9,7 +9,7 @@ Why the name? Just a silly reference to [LolNo.](https://github.com/nerdnu/lolno
 
 ## Commands
 
-* `/lolneigh-set` — Set the location horses are teleported to
+* `/lolneigh-set` — Set the location horses are teleported to where you're standing
 * `/lolneigh-reload` — Reload config
 
 

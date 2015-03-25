@@ -4,3 +4,12 @@ horse_respawn:
     x: 0
     y: 70
     z: 0
+
+
+# Optionally, attempt to move horses to the player's bed first,
+# falling back to the respawn point above if that fails.
+bed_mode: false
+
+
+# Log teleports to console
+log_things: true

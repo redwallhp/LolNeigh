@@ -4,8 +4,13 @@ description: Make horses go somewhere other than spawn after going through the E
 version: ${project.version}
 
 commands:
-   lolneigh-set:
-      description: Set the location horses respawn at
-      usage: /lolneigh-set
-      permission: lolneigh.set
-      permission-message: You don't have permission to do that.
+    lolneigh-set:
+        description: Set the location horses respawn at
+        usage: /lolneigh-set
+        permission: lolneigh.admin
+        permission-message: You don't have permission to do that.
+    lolneigh-reload:
+        description: Reload the LolNeigh config
+        usage: /lolneigh-reload
+        permission: lolneigh.admin
+        permission-message: You don't have permission to do that.
